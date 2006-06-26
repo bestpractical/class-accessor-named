@@ -5,6 +5,9 @@ author ('Jesse Vincent <jesse@bestpractical.com>');
 version_from ('lib/Class/Accessor/Named.pm');
 abstract_from('lib/Class/Accessor/Named.pm');
 license('perl');
-requires('Test::More');
+requires('Test::Dependencies');
+requires('Hook::LexWrap');
+requires('UNIVERSAL::require');
+requires('Sub::Name');
 
 &WriteAll;
