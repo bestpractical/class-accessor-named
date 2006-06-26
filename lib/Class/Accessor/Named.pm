@@ -55,6 +55,12 @@ None reported.
 
 =head1 BUGS AND LIMITATIONS
 
+This module uses L<Hook::Lexwrap> to alter the behaviour of
+L<Class::Accessor> and L<Class::Accessor::Fast>. Due to the nature of
+L<Hook::LexWrap>, this B<will> skew your profiling a tiny bit. We could
+probably do a little more internals diving and eliminate the dependency
+and the deficiency. Patches welcome.
+
 
 Please report any bugs or feature requests to
 C<bug-class-accessor-named@rt.cpan.org>, or through the web interface at
