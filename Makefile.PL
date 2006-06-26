@@ -9,5 +9,5 @@ requires('Test::Dependencies');
 requires('Hook::LexWrap');
 requires('UNIVERSAL::require');
 requires('Sub::Name');
-
+auto_install();
 &WriteAll;
