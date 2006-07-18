@@ -1,5 +1,4 @@
+use Test::Dependencies exclude =>
+[qw/ Clas::Accessor::Named /];
 
-            use Test::Dependencies exclude =>
-                [qw/ Your::Namespace Some::Other::Namespace /];
-
-            ok_dependencies();
+ok_dependencies();
