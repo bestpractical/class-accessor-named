@@ -1,6 +1,6 @@
 package Class::Accessor::Named;
 
-our $VERSION = '0.002';
+our $VERSION = '0.003';
 
 use warnings;
 use strict;

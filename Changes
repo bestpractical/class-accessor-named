@@ -1,5 +1,12 @@
 Revision history for Class-Accessor-Named
 
+0.003 Tue Jul 18 18:46:37 EDT 2006
+
+* fixed dependencies and Test::Dependencies usage
+* updated Module::Install files in inc
+* updated META.yml and MANIFEST
+* no functionality changes
+
 0.002 Mon Jun 26 13:47:24 CDT 2006
 
 * Build system fixes 
