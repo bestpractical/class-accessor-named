@@ -1,5 +1,9 @@
 Revision history for Class-Accessor-Named
 
+0.004 Mon Aug 14 22:15:51 EDT 2006
+
+* Shlomi Fish noticed a typo on the test suite.
+
 0.003 Tue Jul 18 18:46:37 EDT 2006
 
 * fixed dependencies and Test::Dependencies usage

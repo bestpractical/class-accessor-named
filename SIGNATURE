@@ -14,7 +14,7 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 732050d12e9e4003c68f0d622ecd7f612c028fe0 Changes
+SHA1 f6d8fc3382001333a577dd2881e099128868c06c Changes
 SHA1 5601ce17644b19416fe155161b134d553f75e55a MANIFEST
 SHA1 f9c98e2cb34f19cafffef79aff98038648165448 META.yml
 SHA1 5d70b35fe8cf29ba611324665af5b15b2afe863b Makefile.PL
@@ -30,15 +30,15 @@ SHA1 176d68fe7c07b6ab7cfe09093078b8127bbde786 inc/Module/Install/Makefile.pm
 SHA1 8b37b38215d14f922b3d5132ce33d11d21d531ba inc/Module/Install/Metadata.pm
 SHA1 7eb44b00058c44795038d7fa4c0c77470f20a7f8 inc/Module/Install/Win32.pm
 SHA1 6d05967a5e1680b5f118315aaa6b8a1e143d79d8 inc/Module/Install/WriteAll.pm
-SHA1 61eafa39b710712d9718635a87b2ecde522ec4be lib/Class/Accessor/Named.pm
+SHA1 e820bc27522e4d66d37c60d8e8568c011347684c lib/Class/Accessor/Named.pm
 SHA1 341fe9de242df0ca268f7dad958a71d0cd46a7ea t/00.load.t
-SHA1 62e8550e1ed9992ebb999e208964b55478abcb9f t/01-dependencies.t
+SHA1 d12837177f70a3d77c1fec48db6fa268ccdace1e t/01-dependencies.t
 SHA1 6da39b48ce64b584e4c3274bff96fc76ff484820 t/pod-coverage.t
 SHA1 0190346d7072d458c8a10a45c19f86db641dcc48 t/pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.3 (Darwin)
 
-iD8DBQFEv/99Ei9d9xCOQEYRAlMRAJ4gxDlpIHpNzc5FPjxEk/jOSf22jQCeLi8O
-Sfw2NXEGEmqcjGRka8jAOm8=
-=hMKD
+iD8DBQFE4S6JEi9d9xCOQEYRAv7cAKCBMjjiJkPyCQ+L5ZxxTN5RrjTK1wCfYAwL
+jMvbsenZnML3py7Blp1/WVk=
+=WV3v
 -----END PGP SIGNATURE-----
