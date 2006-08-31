@@ -3,7 +3,7 @@ author: Jesse Vincent <jesse@bestpractical.com>
 build_requires: 
   Test::Dependencies: 0
 distribution_type: module
-generated_by: Module::Install version 0.63
+generated_by: Module::Install version 0.64
 license: perl
 name: Class-Accessor-Named
 no_index: 
@@ -14,4 +14,4 @@ requires:
   Hook::LexWrap: 0
   Sub::Name: 0
   UNIVERSAL::require: 0
-version: 0.002
+version: 0.004
