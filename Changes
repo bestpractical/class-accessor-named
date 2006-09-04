@@ -1,5 +1,9 @@
 Revision history for Class-Accessor-Named
 
+0.005 Mon Sep  4 14:28:36 EDT 2006
+
+* Module::Install updated
+
 0.004 Mon Aug 14 22:15:51 EDT 2006
 
 * Shlomi Fish noticed a typo on the test suite.
