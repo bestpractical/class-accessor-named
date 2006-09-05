@@ -6,6 +6,8 @@ version_from ('lib/Class/Accessor/Named.pm');
 abstract_from('lib/Class/Accessor/Named.pm');
 license('perl');
 requires('Hook::LexWrap');
+requires('Class::Accessor');
+requires('Hook::LexWrap');
 requires('Sub::Name');
 requires('UNIVERSAL::require');
 build_requires('Test::Dependencies');

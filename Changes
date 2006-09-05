@@ -1,5 +1,9 @@
 Revision history for Class-Accessor-Named
 
+0.006 Tue Sep  5 18:22:53 EDT 2006
+
+* Require Class::Accessor
+
 0.005 Mon Sep  4 14:28:36 EDT 2006
 
 * Module::Install updated
