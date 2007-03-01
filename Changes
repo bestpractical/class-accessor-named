@@ -1,5 +1,9 @@
 Revision history for Class-Accessor-Named
 
+0.007 Thu Mar  1 12:14:45 EST 2007
+
+* Remove Test::Dependencies. It's more trouble than it's worth.
+
 0.006 Tue Sep  5 18:22:53 EDT 2006
 
 * Require Class::Accessor
