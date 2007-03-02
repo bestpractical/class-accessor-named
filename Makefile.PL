@@ -10,6 +10,5 @@ requires('Class::Accessor');
 requires('Hook::LexWrap');
 requires('Sub::Name');
 requires('UNIVERSAL::require');
-build_requires('Test::Dependencies');
 auto_install();
 &WriteAll;

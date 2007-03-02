@@ -1,5 +1,9 @@
 Revision history for Class-Accessor-Named
 
+0.008 Thu Mar  1 23:33:17 EST 2007
+
+* Removed Test::Dependencies from build_requires. Spotted by Ishigaki-san
+
 0.007 Thu Mar  1 12:14:45 EST 2007
 
 * Remove Test::Dependencies. It's more trouble than it's worth.
