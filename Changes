@@ -1,5 +1,9 @@
 Revision history for Class-Accessor-Named
 
+0.009 Mon Jan 18 11:28:33 PST 2010
+
+* Releng changes only (Upgrade to newer Module::Install)
+
 0.008 Thu Mar  1 23:33:17 EST 2007
 
 * Removed Test::Dependencies from build_requires. Spotted by Ishigaki-san
