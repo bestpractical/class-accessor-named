@@ -1,4 +1,5 @@
 TODO
+^MANIFEST.SKIP$
 ^Makefile$
 blib
 pm_to_blib
