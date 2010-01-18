@@ -10,5 +10,6 @@ requires('Class::Accessor');
 requires('Hook::LexWrap');
 requires('Sub::Name');
 requires('UNIVERSAL::require');
+sign();
 auto_install();
 &WriteAll;
